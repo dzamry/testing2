@@ -1,167 +1,44 @@
-#EXTM3U 
-
-
-
-#EXTINF:-1,INDONESIA ANTARA TV
-
+#EXTINF:-1,ANTARA TV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA ANTV
-
+#EXTINF:-1,ANTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA BERITA SATU
-
+#EXTINF:-1,BERITA SATU
 http://edge.nim.mivo.tv/kqcsmbqna6yg/beritasatu_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA BLOOMBERG TVID
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/bloomberg-id_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA CAHAYA TV
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/cahayatv_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA DAAITV
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/daaitv2_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA DAMAI TV
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/more1_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA DMC TV
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/dmctv_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA ELSHINTA TV
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/elshintatv_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA GLOBALTV
-
+#EXTINF:-1,GLOBALTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/globaltv2_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA HAARI TV
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/more2_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA INDOSIAR
-
+#EXTINF:-1,INDOSIAR
 http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA JAKTV
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/jaktv_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA JTV
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/jawatv_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA KOMPASTV
-
+#EXTINF:-1,KOMPASTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/kompastv_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA LBS IN-DRAMA
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/lbsindrama_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA LBS K-DRAMA
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/ldrama2_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA LBS SHOPPING
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/lshopping2_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA METROTV
-
+#EXTINF:-1,METROTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/metrotv2_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA MIVO TV
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA MNCTV
-
+#EXTINF:-1,MNCTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/mnctv2_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA NET.
-
+#EXTINF:-1,NET.
 http://edge.nim.mivo.tv/kqcsmbqna6yg/nettv_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA NHK WORLD
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/nhkworld_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA RCTI
-
+#EXTINF:-1,RCTI
 http://edge.nim.mivo.tv/kqcsmbqna6yg/rcti2_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA RTV
-
+#EXTINF:-1,RTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/rajawalitv.stream_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA SCTV
-
+#EXTINF:-1,SCTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/sctv2_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA SPACETOON
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/spacetoon_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA SPACETOON 2
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/spacetoon2_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA THE INDONESIA CH
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/theindonesiachannel_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA TRANS7
-
+#EXTINF:-1,TRANS7
 http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA TRANSTV
-
+#EXTINF:-1,TRANSTV
 http://edge.nim.mivo.tv/kqcsmbqna6yg/transtv2_all/playlist.m3u8
 
-#EXTINF:-1,INDONESIA TVONE
-
+#EXTINF:-1,TVONE
 http://edge.nim.mivo.tv/kqcsmbqna6yg/tvone2_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA TVRI BUDAYA
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/tvribudaya_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA TVRI JAKARTA
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/tvrijakarta_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA TVRI NASIONAL
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/tvrinasional_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA TVRI OLAHRAGA
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/tvriolahraga_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA U CHANNEL
-
-http://edge.nim.mivo.tv/kqcsmbqna6yg/uchannel_all/playlist.m3u8
-
-#EXTINF:-1,INDONESIA:English HD
-
-http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_720_av-p.m3u8
-
-#EXTINF:-1,INDONESIA:English SD
-
-http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_360_av-p.m3u8
-
-#EXTINF:-1,INDONESIA:Sport HD
-
-http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
-
-#EXTINF:-1,INDONESIA:Sport SD
-
-http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_360_av-p.m3u8
